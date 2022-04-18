@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bitt-14
 - 👀 I’m interested in automation...
-- 🌱 I’m currently learning books? 😅📚 
+- 🌱 I’m currently learning programming microcontroller 🥸 
 - 💞️ I’m looking to collaborate on new projects 😎
 - 📫 How to reach me ...
 
